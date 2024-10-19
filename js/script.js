@@ -3,7 +3,7 @@ var zhufuyu = "新年快乐";
 // 修改下面一行可以设置倒计时时间，注意格式保持不要变。
 var daojishi = "2024/10/21 00:00:00";
 // 修改下面一行可以设置倒计时的时候出现的提示文字。
-var tishi = "让我们一起倒计时";
+var tishi = "眠眠请耐心等待惊喜奥";
 
 document.getElementById("label").innerHTML = tishi;
 class Snowflake {

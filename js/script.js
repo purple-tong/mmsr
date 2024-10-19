@@ -170,7 +170,7 @@ function goNextStep() {
   // }
   // h1h1h1.style.setProperty("font-size", font_size)
   // dedede();
-  location.href="login.html";
+  location.href="./html/login.html";
 }
 
 initCountdown();
